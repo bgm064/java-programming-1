@@ -1,1 +1,1 @@
-Contains files and code created for the Haaga-Helia UAS course ’Programming 1’.
+Basics of Java programming. Haaga-Helia University of Applied Sciences.
